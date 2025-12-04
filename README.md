@@ -1,4 +1,4 @@
-# 实验六：Inception v3 进行 FashionMNIST 分类
+# Inception v3 进行 FashionMNIST 分类
 
 ## 实验目的
 
